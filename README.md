@@ -23,7 +23,7 @@ I am a **Software Engineering student** based in Kigali, driven by the challenge
 - 🛠️ **Featured Project:** Developing **EMOTO** — a smart IoT monitoring system for motorcycles.
 - 🎓 **Education:** 2nd Year Software Engineering student.
 - 🔭 **Current Focus:** Deep diving into the **MERN Stack** and **Cybersecurity** fundamentals.
-- ⚡ **Beyond Coding:** I have a keen eye for **interior design** and I'm a huge **basketball** fan.
+- ⚡ **Beyond Coding:** When I'm not coding, I explore interior design ideas and play basketball
 
 ---
 
@@ -62,9 +62,6 @@ I am a **Software Engineering student** based in Kigali, driven by the challenge
 
 - [ ] 🏍️ Launch the **EMOTO** beta version.
 - [ ] 🌐 Deploy 5 production-ready full-stack applications.
-- [ ] 🔐 Achieve a certification in **Cybersecurity**.
-- [ ] 🤝 Contribute to 3 major open-source projects.
-
 ---
 
 ## 📫 Let's Connect!
