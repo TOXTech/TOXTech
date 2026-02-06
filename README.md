@@ -58,16 +58,6 @@ I am a **Software Engineering student** based in Kigali, driven by the challenge
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TOXTech&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOXTech&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 🎯 2026 Goals
 
 - [ ] 🏍️ Launch the **EMOTO** beta version.
@@ -89,5 +79,6 @@ I am a **Software Engineering student** based in Kigali, driven by the challenge
 </p>
 
 <p align="center">
-  ⭐️ Built with passion by <a href="https://github.com/TOXTech">Sam Blessing IRUMVA</a>
+  ⭐️ Built with passion by <a href="https://github.com/TOXTech">Sam Blessing IRUMVA </a>  - Feel free to reach out and connect!
+
 </p>
