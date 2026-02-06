@@ -110,14 +110,6 @@ I'm a passionate **Software Engineering student** who enjoys building scalable w
 
 ---
 
-
-
-<p align="center">
-  <em>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</em>
-</p>
-
----
-
 <p align="center">
   ⭐️ From <a href="https://github.com/TOXTech">Sam Blessing IRUMVA</a> - Feel free to reach out and connect!
 </p>
