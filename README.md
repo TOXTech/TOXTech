@@ -110,9 +110,7 @@ I'm a passionate **Software Engineering student** who enjoys building scalable w
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
+
 
 <p align="center">
   <em>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</em>
