@@ -62,7 +62,7 @@ I'm a passionate **Software Engineering student** who enjoys building scalable w
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -76,20 +76,20 @@ I'm a passionate **Software Engineering student** who enjoys building scalable w
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 ## 📫 Contact Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/sam-blessing-irumva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sam%20Blessing%20IRUMVA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:samblessingirumva@gmail.com">
+    <img src="https://img.shields.io/badge/Email-samblessingirumva@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-yourusername-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/TOXTech" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-TOXTech-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
